@@ -10,7 +10,8 @@
 ---
 
 ## 👾 About Me
-:technologist: CS student at IE University  •  Research Intern @ [**Stride Group**](https://github.com/stride-research)    
+:technologist: CS & AI student at IE University (graduating July 2027)  •  Previously Research Intern @ [**Stride Group**](https://github.com/stride-research)    
+:briefcase: Open to 2027 software engineering and AI internships and new-grad roles  
 :seedling: Passionate about Machine Learning and Data Science  
 :heartbeat: Trying to build cool things and get better everyday   
 :globe_with_meridians: Panamanian living in Madrid  
