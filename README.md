@@ -32,7 +32,7 @@
   <summary><b>Main skills</b></summary>
   <br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,mysql,postgres,django,flask,azure,git,github,js,react,html,css,docker,java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,django,flask,postgres,mysql,docker,kubernetes,azure,git,github,js,react,html,css,java)](https://skillicons.dev)
 
 </details>
 
@@ -40,7 +40,7 @@
   <summary><b>Learning☝️</b></summary>
   <br/>
 
-  [![Learning](https://skillicons.dev/icons?i=aws,spark,pytorch,swift)](https://skillicons.dev)
+  [![Learning](https://skillicons.dev/icons?i=aws,spark,swift)](https://skillicons.dev)
 
 </details>
 
